@@ -2,5 +2,4 @@ Flask
 gunicorn
 sqlalchemy
 logging
-os
 dotenv
